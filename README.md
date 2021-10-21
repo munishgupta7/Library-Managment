@@ -2,8 +2,9 @@
 
 #### Installation
 
-Ensure that Java 8 and Maven 3.2 are installed Clone this
-repo:https://gitlab.com/mungali/springboot-rest-library-management-system
+Ensure that Java 8 and Maven 3.2 are installed
+
+Clone this repo:https://gitlab.com/mungali/springboot-rest-library-management-system
 
 #### How to Build the Project - Use the below maven command
 
