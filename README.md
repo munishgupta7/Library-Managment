@@ -19,11 +19,11 @@ The port number can be changed by editing the port property in src/main/resource
 
 #### In Swagger UI test the rest API
 
-#### Create Book API Inputs
+#### Create Book API - Inputs
 
 { "author": "test1", "description": "test1", "isbn": "test1", "tag1": "test1", "tag2": "test1", "title": "test1" }
 
-#### Update Book API Inputs
+#### Update Book API - Inputs
 
 { "author": "jack", "description": "power of focus", "isbn": "test1", "tag1": "power of focus", "tag2": "Confidence", "
 title": "The 7 habits of effective people" }
